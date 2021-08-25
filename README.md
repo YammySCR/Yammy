@@ -5,9 +5,9 @@ My name is Eduardo Perecin, I'm 17 years old, my nickname is Yammy_ and I'm a dr
 
 ### :clipboard: Technologies:
 
-  ![PHP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)
-  ![LUA](https://img.shields.io/badge/MTALUA-732cc9?style=for-the-badge&logo=lua&logoColor=17042e)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)
+  ![LUA](https://img.shields.io/badge/LUA-732cc9?style=for-the-badge&logo=lua&logoColor=17042e)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br>
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ffbf00?style=for-the-badge&logo=javascript&logoColor=white)
 
