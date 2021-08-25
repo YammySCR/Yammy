@@ -33,4 +33,4 @@ My name is Eduardo Perecin, I'm 17 years old, my nickname is Yammy_ and I'm a dr
 
 </br>
 <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-<string>Créditos: ![ImString#4343](https://github.com/ImString)</string>
+<string>Créditos: ImString#4343</string>
